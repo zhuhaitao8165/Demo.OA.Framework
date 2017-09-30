@@ -1,0 +1,8 @@
+G:\Learning\GitProject\FrameWork\Console\Core\bin\Debug\netstandard1.4\Core.deps.json
+G:\Learning\GitProject\FrameWork\Console\Core\bin\Debug\netstandard1.4\Core.dll
+G:\Learning\GitProject\FrameWork\Console\Core\bin\Debug\netstandard1.4\Core.pdb
+G:\Learning\GitProject\FrameWork\Console\Core\obj\Debug\netstandard1.4\Core.csprojResolveAssemblyReference.cache
+G:\Learning\GitProject\FrameWork\Console\Core\obj\Debug\netstandard1.4\Core.csproj.CoreCompileInputs.cache
+G:\Learning\GitProject\FrameWork\Console\Core\obj\Debug\netstandard1.4\Core.AssemblyInfo.cs
+G:\Learning\GitProject\FrameWork\Console\Core\obj\Debug\netstandard1.4\Core.dll
+G:\Learning\GitProject\FrameWork\Console\Core\obj\Debug\netstandard1.4\Core.pdb

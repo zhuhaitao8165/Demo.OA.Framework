@@ -1,0 +1,12 @@
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\ConsoleApp.deps.json
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\ConsoleApp.runtimeconfig.json
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\ConsoleApp.runtimeconfig.dev.json
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\ConsoleApp.dll
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\ConsoleApp.pdb
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\Core.dll
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\Core.pdb
+G:\Learning\GitProject\FrameWork\Console\Console\obj\Debug\netcoreapp1.1\ConsoleApp.csprojResolveAssemblyReference.cache
+G:\Learning\GitProject\FrameWork\Console\Console\obj\Debug\netcoreapp1.1\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Learning\GitProject\FrameWork\Console\Console\obj\Debug\netcoreapp1.1\ConsoleApp.AssemblyInfo.cs
+G:\Learning\GitProject\FrameWork\Console\Console\obj\Debug\netcoreapp1.1\ConsoleApp.dll
+G:\Learning\GitProject\FrameWork\Console\Console\obj\Debug\netcoreapp1.1\ConsoleApp.pdb

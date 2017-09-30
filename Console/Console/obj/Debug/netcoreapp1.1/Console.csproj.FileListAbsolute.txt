@@ -1,0 +1,6 @@
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\Console.deps.json
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\Console.runtimeconfig.json
+G:\Learning\GitProject\FrameWork\Console\Console\bin\Debug\netcoreapp1.1\Console.runtimeconfig.dev.json
+G:\Learning\GitProject\FrameWork\Console\Console\obj\Debug\netcoreapp1.1\Console.csprojResolveAssemblyReference.cache
+G:\Learning\GitProject\FrameWork\Console\Console\obj\Debug\netcoreapp1.1\Console.csproj.CoreCompileInputs.cache
+G:\Learning\GitProject\FrameWork\Console\Console\obj\Debug\netcoreapp1.1\Console.AssemblyInfo.cs
